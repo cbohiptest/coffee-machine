@@ -1,5 +1,5 @@
 @sprint-2
-Feature: Can be configured
+Feature: Can be configured dsfsdfsf
     # **In order to** get the best possible coffees
     # **As a** geeky coffee lover
     # **I can** configure it to match my needs
