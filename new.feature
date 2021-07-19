@@ -1,2 +1,2 @@
 Feature: Eating cucumbers
-  Scenario: A test
+  Scenario: A test on the main branch
